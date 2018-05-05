@@ -13,7 +13,7 @@ Below is the general list. I also made specific lists for
 
 | Name                                                      | Leden | Regio           | Onderwerpen                      | Type                         | Independent or not?                                     | 
 |-----------------------------------------------------------|-------|-----------------|----------------------------------|------------------------------|---------------------------------------------------------| 
-| Amsterdam - Remote User Testing                           | 530   | Amsterdam       | Development                      |                              |                                                         | 
+| Amsterdam - Remote User Testing                           | 530   | Amsterdam       | Testing                          |                              |                                                         | 
 | Amsterdam Code + Design Community                         | 714   | Amsterdam       | Design                           |                              |                                                         | 
 | Amsterdam Creatives                                       | 405   | Amsterdam       | Development                      |                              |                                                         | 
 | Amsterdam Entrepreneurial Web Development                 | 663   | Amsterdam       | Development                      |                              |                                                         | 
