@@ -1,0 +1,13 @@
+| Name                                                        | Leden | Regio     | Type              | Organisers                                         | 
+|-------------------------------------------------------------|-------|-----------|-------------------|----------------------------------------------------| 
+| Teaching Code Meetup Codaisseur                             | 587   | Amsterdam | Paid              | https://codaisseur.com/                            | 
+| Learning to Code - Amsterdam                                | 2330  | Amsterdam | Free              | https://www.meetup.com/Learning-to-Code-Amsterdam/ | 
+| Hack Your Future                                            | 150   | Amsterdam | Free for refugees | http://www.hackyourfuture.net/                     | 
+| Front-end Forward                                           | 568   | Amsterdam | Paid              | De Voorhoede                                       | 
+| Le Wagon Amsterdam - Coding Station                         | 1556  | Amsterdam |                   |                                                    | 
+| Dutch Web development school                                | 307   |           |                   |                                                    | 
+| Learn to code together Utrecht                              | 350   | Utrecht   |                   |                                                    | 
+| Collaborative learning & sharing knowledge about JavaScript | 390   | Arnhem    | Javascript        |                                                    | 
+| NodeSchool Utrecht                                          | 240   | Utrecht   | Javascript, Node  |  NodeSchool                                        | 
+| NodeSchool Amsterdam                                        | 1139  | Amsterdam | Javascript, Node  |  NodeSchool                                        | 
+| Nodeschool Schiphol                                         | 213   |           |                   |                                                    | 
